@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ademonteverde/readme-generator/issues"
   },
-  "homepage": "https://github.com/ademonteverde/readme-generator#readme"
+  "homepage": "https://github.com/ademonteverde/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
