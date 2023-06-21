@@ -27,8 +27,10 @@ Follow these steps to complete the challenge:
 * THEN I am taken to the corresponding section of the README
 
 ## Assets
+![Assets](.\assets\images\b4a230f5c426219e45f258b08b6ab504.png)
 
 ### Link to GitHub Repository:
-
+https://github.com/ademonteverde/readme-generator
 
 ### Link to deployed application:
+https://ademonteverde.github.io/readme-generator/
